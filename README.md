@@ -31,7 +31,9 @@ Por quê?
   Exibe padrões temporais, como picos em anos específicos, ajudando a entender períodos de maior intensidade.
  
 Configuração:
+
   Eixo X: iyear (Ano).
+  
   Eixo Y: nkill (Número de Mortes).
  
  
