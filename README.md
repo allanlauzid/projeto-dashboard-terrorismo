@@ -85,6 +85,7 @@ Design do Dashboard
 
 
 Conclusão
+
  Este dashboard atende aos objetivos de análise, permitindo:
  • Identificar padrões temporais e geográficos de ataques.
  • Explorar interativamente os dados com filtros e drill-down.
