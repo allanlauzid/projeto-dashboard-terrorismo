@@ -1,4 +1,9 @@
 # projeto-dashboard-terrorismo
+
+Dashboard de Análise de Eventos Terroristas (1970-2021)
+Arquivo .pbix com Dashboard e Documentação do mesmo em .pdf e abaixo.
+
+
 Documentação do Dashboard de Análise de Eventos Terroristas (1970-2021) 
 
 Faculdade Nova Roma 
